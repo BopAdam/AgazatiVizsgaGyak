@@ -31,7 +31,7 @@ a program hiba nelkul fusson Le
 
 
 3.18 cpontos
-
+filekezeles és OOP programozás, nyilvan a file soraiban levő adatokbol 1-1 objektum peldanyt kell letrehoznunk
 
 
 
