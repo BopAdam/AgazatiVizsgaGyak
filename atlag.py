@@ -1,3 +1,4 @@
+import math
 osszesen = 0
 db = 0
 while db < 5:
@@ -14,3 +15,5 @@ while db < 5:
 
 atlag = osszesen//db
 print(f"MAtematika dolgozat atlaga:{atlag} ")
+
+print(f"MAtematika dolgozat atlaga:{math.pi:3.2f}")
