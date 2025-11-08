@@ -15,6 +15,21 @@ III. Eldönti hogy az ertékekből szereszthető-e 3szög és a megallapításá
 
 
 2.14 pontos
+Irjon programot amely kiszamolja egy hemgereshasáb térfogatát.
+(V= sugar a negyzeten * p1-vel * magasság = V=r2*Pí*h)
+program irja ki a keszito nevet és datumot es uj sorba h mit csinal a program
+
+kerje be a felhasznalotoé a szukséges ket adatot, adatok helyesseget nem kell ellenorizni, a bekereshez hasznaljon ciklust
+a bekert adatokat alakitsa atlagszamitsa ki a hengerhasá terfogatát
+irassa ki az eredmeny a kepernyőre a "Hengeres hasáb terfogata: ", szoveg utan
+a szamitast kulon függvényekben implentalja
+a szukséges adatokat parameterek adja át a feldolgozo függvénynek
+a kiszamitott ertéket a függvény adja vissza
+az elkészült munkajat mentse 
+a program hiba nelkul fusson Le
+ 
+
+
 3.18 cpontos
 
 
