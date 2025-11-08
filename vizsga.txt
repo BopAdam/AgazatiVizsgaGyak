@@ -1,0 +1,35 @@
+3feladat
+1. 8 pont
+Szerkeszthetünk-e haromszüget ha a felhasznalo által  megadott egesz szam ertekekbol ha azok egy haromszög oldalainkat hosszussagat jelentik
+
+A kódban szerepeljen az Ön neve ls az aktualis dátum egy dokumentacios kommentet
+Mentse az állományát mondjuk haromszog<MONOGRAM>.py fileba
+dokumentacios komentek
+""
+Méhes Ádám
+2025.nov.26
+"""
+II. Bekére "a", "b", "c" azonositokkal a 3om oldal hosszuságot
+
+III. Eldönti hogy az ertékekből szereszthető-e 3szög és a megallapítását irassa ki a képwenyőre: "Szerkeszthető 3szög a megadott oldalhosszuságokkal v "Nem Szerkeszthető 3szög az oldalhosszuságokkal"
+
+
+2.14 pontos
+3.18 cpontos
+
+
+
+
+off topic
+egy 5fos osztályban matematika dolgozatot irtak, szamitsuk ki az atlagukat
+1.mentse a programját atlagAdamMehes.py modon
+2.Kerje be a tanulok erdem jegyeit (2pont)
+3. osszegezze a bekert erdemjegyeket
+4.a kApott osszeget ossze el a db szammal
+5.irassa ki az atlag eredmenyt egy formazott stringgel "MAtematika dolgozat atlaga 3.25 "(3pont)
+
+
+off topic 2
+
+1. kerjen be egy nevet a felhasznalatol és irassa ki hogy hány betűből áll!!!!
+x.(a nyolcbol) ha a név nem csak betokbol áll a program irja ki: "Na,ne szotakozzál....."
